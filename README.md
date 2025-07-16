@@ -20,7 +20,7 @@
 
 1.  Клонируйте репозиторий или просто скачайте файл `clean_empty_dirs.py`.
     ```bash
-    git clone [https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ.git](https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ.git)
+    git clone [https://github.com/igoradmtg/clean_empty_dirs.git](https://github.com/igoradmtg/clean_empty_dirs.git)
     cd ВАШ_РЕПОЗИТОРИЙ
     ```
 2.  Запустите скрипт из командной строки, передав ему в качестве аргументов пути к директориям, которые вы хотите очистить.
